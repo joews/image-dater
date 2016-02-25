@@ -1,0 +1,31 @@
+{
+  "name": "image-dater",
+  "version": "0.1.0",
+  "description": "Rename image files to include exif date/time",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "denodeify": "^1.2.1"
+    "co-parallel": "^1.0.0",
+    "exiftool": "0.0.3"
+  },
+  "engines": ">=4",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhitfieldseed/image-dater.git"
+  },
+  "keywords": [
+    "image",
+    "date",
+    "exif"
+  ],
+  "author": "Joe Whitfield-Seed <joeseed86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwhitfieldseed/image-dater/issues"
+  },
+  "homepage": "https://github.com/jwhitfieldseed/image-dater#readme"
+}
